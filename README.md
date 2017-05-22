@@ -3,12 +3,12 @@
 ## 이태원/한남
 
 * [라쿠치나](https://store.naver.com/restaurants/detail?id=11700873) [Italian]
-> All 60,000
+> All 60,000 <br>
 > 1990년에 오픈하여 지금까지, 이탈리안 요리의 건강한 맛을  추구하는 레스토랑
 
 * [베라](https://store.naver.com/restaurants/detail?id=34658718) [Italian]
-> L 17,000 ~ 25,000
-> D 40,000
+> L 17,000 ~ 25,000<br>
+> D 40,000<br>
 > 나폴리 정통피자와 이탈리안 퀴진을 함께 즐길 수 있는  모던 이탈리아 다이닝
 
 * [붓처스컷](https://store.naver.com/restaurants/detail?id=19958049) [Steak House]
