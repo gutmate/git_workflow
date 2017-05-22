@@ -4,16 +4,16 @@
 
 * 15 [라쿠치나](https://store.naver.com/restaurants/detail?id=11700873) [Italian]
 > (All) 60,000 <br>
-> 1990년에 오픈하여 지금까지, 이탈리안 요리의 건강한 맛을  추구하는 레스토랑
+> 1990년에 오픈하여 지금까지, 이탈리안 요리의 건강한 맛을 추구하는 레스토랑
 
 * 16 [베라](https://store.naver.com/restaurants/detail?id=34658718) [Italian]
 > (L) 17,000 ~ 25,000<br>
 > (D) 40,000<br>
-> 나폴리 정통피자와 이탈리안 퀴진을 함께 즐길 수 있는  모던 이탈리아 다이닝
+> 나폴리 정통피자와 이탈리안 퀴진을 함께 즐길 수 있는 모던 이탈리아 다이닝
 
 * 17 [붓처스컷](https://store.naver.com/restaurants/detail?id=19958049) [Steak House]
 > (All) 50,000<br>
-> 차별화된 숙성법으로 드라이에이징 스테이크를 전문적으로  선보이는 정통 스테이크하우스
+> 차별화된 숙성법으로 드라이에이징 스테이크를 전문적으로 선보이는 정통 스테이크하우스
 
 * 18 [비스테까 토레N](https://store.naver.com/restaurants/detail?id=11796537&entry=plt&query=%EB%B9%84%EC%8A%A4%ED%85%8C%EA%B9%8C) [Steak House]
 > (L) 29,000<br>
@@ -45,4 +45,4 @@
 
 * 24 [테이스팅룸 미키크레올](https://store.naver.com/restaurants/detail?id=36845023) [European]
 > (All) 6,600 ~ 12,400<br>
-> 퓨전 이탈리아 음식과 미국 뉴올리언스의 흑인 음식인 크레올  푸드를 맛볼 수 있는 곳
+> 퓨전 이탈리아 음식과 미국 뉴올리언스의 흑인 음식인 크레올 푸드를 맛볼 수 있는 곳
