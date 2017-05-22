@@ -36,12 +36,12 @@
 * 22 [아벡누](https://store.naver.com/restaurants/detail?id=37684048&entry=plt&query=%EC%95%84%EB%B2%A1%EB%88%84) [European]
 > 유러피안 가정식을 재해석한 캐주얼 비스트로
 
-* 23 [코로비아]() [Italian]
+* 23 [코로비아](https://store.naver.com/restaurants/detail?id=37249823&entry=plt&query=%EC%BD%94%EB%A1%9C%EB%B9%84%EC%95%84%20%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91) [Italian]
 > (L) 25,000 ~ 30,000<br>
 > (D) 60,000<br>
 > 캐비아 요리를 전문으로 선보이는 이탈리안 레스토랑
 
 
-* 24 [테이스팅룸 미키크레올]() [European]
+* 24 [테이스팅룸 미키크레올](https://store.naver.com/restaurants/detail?id=36845023) [European]
 > (All) 6,600 ~ 12,400<br>
 > 퓨전 이탈리아 음식과 미국 뉴올리언스의 흑인 음식인 크레올  푸드를 맛볼 수 있는 곳
