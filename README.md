@@ -34,6 +34,8 @@
 > 계절의 흐름을 담은 세련된 감각의 캐주얼 다이닝
 
 * 22 [아벡누](https://store.naver.com/restaurants/detail?id=37684048&entry=plt&query=%EC%95%84%EB%B2%A1%EB%88%84) [European]
+> (L) 20,000<br>
+> (D) 32,500<br>
 > 유러피안 가정식을 재해석한 캐주얼 비스트로
 
 * 23 [코로비아](https://store.naver.com/restaurants/detail?id=37249823&entry=plt&query=%EC%BD%94%EB%A1%9C%EB%B9%84%EC%95%84%20%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91) [Italian]
