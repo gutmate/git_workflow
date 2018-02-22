@@ -82,9 +82,7 @@ git merge <병합하고 싶은 내용이 있는 branch>
 ```
 
 - Pull Request 보내기
-```bash
-git request-pull <보내고자 하는 fork repository/branch> <원본 url>
-```
+커맨드라인으로는 안되는 듯?
 
 <병합하고 싶은 내용이 있는 branch> 내용을 <병합 베이스 branch> 에 추가 한다.
 
