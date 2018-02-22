@@ -66,7 +66,7 @@
 ## git 명령어
 
 - 최근 커밋 취소
-```
+```bash
 git reset HEAD^
 ```
 
@@ -76,7 +76,7 @@ git checkout <file name>
 ```
 
 - branch 병합하기
-```
+```bash
 git checkout <병합 베이스 branch>
 git merge <병합하고 싶은 내용이 있는 branch>
 ```
