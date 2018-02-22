@@ -69,6 +69,12 @@
 ```
 git reset HEAD^
 ```
+
+- 최근 수정 사항 삭제
+```bash
+git checkout <file name>
+```
+
 ## 이슈사항
 
 ISSUE
