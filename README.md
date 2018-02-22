@@ -46,3 +46,26 @@
 * 24 [테이스팅룸 미키크레올](https://store.naver.com/restaurants/detail?id=36845023) [European]
 > (All) 6,600 ~ 12,400<br>
 > 퓨전 이탈리아 음식과 미국 뉴올리언스의 흑인 음식인 크레올 푸드를 맛볼 수 있는 곳
+
+## git 협업 과정
+
+1. Fork
+2. clone, remote설정
+3. branch 생성
+4. 수정 작업 후 add, commit, push
+5. Pull Request 생성
+6. 코드리뷰, Merge Pull Reqest
+7. Merge 이후 branch 삭제 및 동기화
+
+### Q)
+
+1.로컬 브랜치에서 작업 중인 경우, 원본 프로젝트의 sync는 언제? 어떻게? <br>
+» 협업의 경우, PR이 머지되면 각자 자신의 로컬 master에 해당 내 용을 자주 반영하는게 좋음<br>
+» 내가 작업중인 브랜치는 git rebase master를 통해서 그래프 최 상단으로 올리는 것이 히스토리 관리가 깔끔해짐
+
+## git 명령어
+
+- 최근 커밋 취소
+```
+git reset HEAD^
+```
