@@ -75,6 +75,14 @@ git reset HEAD^
 git checkout <file name>
 ```
 
+- branch 병합하기
+```
+git checkout <병합 베이스 branch>
+git merge <병합하고 싶은 내용이 있는 branch>
+```
+
+<병합하고 싶은 내용이 있는 branch> 내용을 <병합 베이스 branch> 에 추가 한다.
+
 ## 이슈사항
 
 ISSUE
