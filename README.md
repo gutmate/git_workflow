@@ -46,3 +46,20 @@
 * 24 [테이스팅룸 미키크레올](https://store.naver.com/restaurants/detail?id=36845023) [European]
 > (All) 6,600 ~ 12,400<br>
 > 퓨전 이탈리아 음식과 미국 뉴올리언스의 흑인 음식인 크레올 푸드를 맛볼 수 있는 곳
+
+## git 협업 과정
+
+1. Fork
+2. clone, remote설정
+3. branch 생성
+4. 수정 작업 후 add, commit, push
+5. Pull Request 생성
+6. 코드리뷰, Merge Pull Reqest
+7. Merge 이후 branch 삭제 및 동기화
+
+## git 명령어
+
+- 최근 커밋 취소
+```
+git reset HEAD^
+```
