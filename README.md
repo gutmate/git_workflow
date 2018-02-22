@@ -66,7 +66,7 @@
 ## git 명령어
 
 - 최근 커밋 취소
-```
+```bash
 git reset HEAD^
 ```
 
@@ -75,8 +75,18 @@ git reset HEAD^
 git checkout <file name>
 ```
 
+- branch 병합하기
+```bash
+git checkout <병합 베이스 branch>
+git merge <병합하고 싶은 내용이 있는 branch>
+```
+
+<병합하고 싶은 내용이 있는 branch> 소스를 <병합 베이스 branch> 에 추가 한다.
+
+- Pull Request 보내기
+커맨드라인으로는 안되는 듯?
+
+
 ## 이슈사항
 
 ISSUE
-ISSUE2
-ISSUE3
