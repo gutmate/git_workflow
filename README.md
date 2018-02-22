@@ -86,5 +86,3 @@ git merge <병합하고 싶은 내용이 있는 branch>
 ## 이슈사항
 
 ISSUE
-ISSUE2
-ISSUE3
