@@ -4,7 +4,7 @@
 2. clone, remote설정
 3. branch 생성
 4. 수정 작업 후 add, commit, push
-5. Pull Request 생성
+5. Pull Request 생성(GitHub 기능)
 6. 코드리뷰, Merge Pull Reqest
 7. Merge 이후 branch 삭제 및 동기화
 
